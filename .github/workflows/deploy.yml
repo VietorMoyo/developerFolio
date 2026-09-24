@@ -11,6 +11,10 @@ on:
       - master
   schedule:
     - cron: "0 12 * * 1" 
+
+permissions:
+  contents: write
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
