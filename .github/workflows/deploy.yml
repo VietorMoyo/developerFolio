@@ -1,7 +1,7 @@
 name: Build and Deploy
 env:
   CI: false
-  GITHUB_USERNAME: ${{ github.repository_owner }}
+  GITHUB_USERNAME: "VietorMoyo"
   REACT_APP_GITHUB_TOKEN: ${{ secrets.GAT_PAT }} 
   USE_GITHUB_DATA: "true"
 on:
