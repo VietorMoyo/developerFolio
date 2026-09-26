@@ -2,7 +2,7 @@ name: Build and Deploy
 env:
   CI: false
   GITHUB_USERNAME: "VietorMoyo"
-  REACT_APP_GITHUB_TOKEN: ${{ secrets.GAT_PAT }} 
+  REACT_APP_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} 
   USE_GITHUB_DATA: "true"
 on:
   workflow_dispatch:
