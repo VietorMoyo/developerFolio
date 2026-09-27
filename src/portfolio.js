@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/VietorMoyo",
   //linkedin: "https://www.linkedin.com/in/victormoyo/",
   gmail: "vietormoyo@gmail.com",
-  whatsapp: "https://wa.me/vietor11?s=t",
+  whatsapp: "https://wa.me/263784994297",
   //gitlab: "https://gitlab.com/victormoyo",
   //facebook: "https://www.facebook.com/victor.moyo",
   //medium: "https://medium.com/@victormoyo",
